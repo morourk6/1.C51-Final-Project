@@ -1,0 +1,535 @@
+facility_id,facility_name,facility_type,primary_commodity,commodities_products,facility_equipment,country,LOM_in_Buckets,still_operating
+COM00003.00,Absaloka,Mine,Coal,Sub-bituminous coal,,United States of America,47.0,1
+COM00008.00,Aguablanca,Mine,Nickel,"Nickel, Copper, Cobalt, Gold, PGM",Underground,Spain,11.0,0
+COM00009.00,Ahafo,Mine,Gold,Gold,"Open pit, Underground",Ghana,15.0,1
+COM00015.00,Aktogay,Mine,Copper,"Copper, Silver, Copper cathode, Gold","Open pit, Heap leaching plant",Kazakhstan,6.0,1
+COM00016.00,Akyem,Mine,Gold,Gold,Open pit,Ghana,8.0,1
+COM00017.00,Al Ba’itha,Mine,Aluminium,Bauxite,Open pit,Saudi Arabia,7.0,1
+COM00018.00,Alamo Dorado,Mine,Silver,"Silver, Gold, Copper","Open pit, Leaching plant",Mexico,10.0,0
+COM00020.00,Alexievskaya,Mine,Coal,Coal,,Russian Federation,57.0,1
+COM00021.00,Aljustrel,Mine,Zinc,"Zinc, Lead",,Portugal,14.0,1
+COM00035.00,Ambatovy,"Mine, Refinery",Nickel,"Nickel, Cobalt",,Madagascar,10.0,1
+COM00041.00,Andina,Mine,Copper,"Copper, Molybdenum, Silver","Open pit, Underground",Chile,51.0,1
+COM00043.00,Andrade,Mine,Iron,Iron,Open pit,Brazil,77.0,1
+COM00050.00,Antapite,Mine,Gold,"Gold, Silver",Underground,Peru,20.0,1
+COM00051.00,Antas,Mine,Copper,"Copper, Gold","Open pit, Underground",Brazil,5.0,1
+COM00054.00,Antucoya,Mine,Copper,"Copper, Copper cathodes",,Chile,5.0,1
+COM00055.00,Anyuan,Mine,Coal,Thermal coal,Underground,China,17.0,1
+COM00067.00,Argyle,Mine,Other mine,Diamonds,,Australia,38.0,1
+COM00072.00,Ashele,Mine,Copper,"Copper, Zinc, Silver",Underground,China,17.0,1
+COM00074.00,Atasu,Mine,Iron,Iron,Underground,Kazakhstan,45.0,1
+COM00082.00,Azul,Mine,Other (poly)-metallic,Manganese,Open Pit,Brazil,36.0,1
+COM00084.00,Bagdad,Mine,Copper,"Copper, Molybdenum","Open pit, SX-EW",United States of America,76.0,1
+COM00086.00,Bakan,Mine,Gold,Gold,Heap leaching plant,Indonesia,17.0,1
+COM00109.00,Bear Run,Mine,Coal,Thermal coal,Surface,United States of America,11.0,1
+COM00110.00,Beatrix,Mine,Gold,Gold,"Underground, Open pit",South Africa,38.0,1
+COM00113.00,Beckley,Mine,Coal,Metallurgical coal,Underground,United States of America,14.0,1
+COM00115.00,Beisu,Mine,Coal,Thermal coal,Underground,China,45.0,1
+COM00118.00,Belmont,Mine,Coal,Bituminous coal,Surface,United States of America,22.0,1
+COM00123.00,Benga,Mine,Coal,"Thermal coal, Hard coking coal",,Mozambique,9.0,1
+COM00125.00,Berezovskaya,Mine,Coal,Metallurgical coal,,Russian Federation,63.0,1
+COM00128.00,Beulah,Mine,Coal,Lignite,,United States of America,58.0,1
+COM00139.00,Black Mountain,Mine,Other (poly)-metallic,"Zinc, Lead, Silver, Copper","Open pit, Underground",South Africa,41.0,1
+COM00142.00,Blacksville,Mine,Coal,"Thermal coal, Metallurgical coal",Underground,United States of America,51.0,1
+COM00143.00,Blackwater,Mine,Coal,Metallurgical bituminous coal,Open pit,Australia,54.0,1
+COM00146.00,Bloom Lake,Mine,Iron,"Iron, Iron ore pellets",Open pit,Canada,11.0,1
+COM00150.00,Bodai-Daldali,Mine,Aluminium,"Bauxite, Alumina",Open pit,India,17.0,1
+COM00151.00,Boddington,Mine,Gold,"Gold, Copper",Open pit,Australia,12.0,1
+COM00154.00,Boggabri,Mine,Coal,Semi-soft coking coal,Open cut,Australia,15.0,1
+COM00163.00,Bozshakol,Mine,Copper,"Gold, Copper, Silver",Open pit,Kazakhstan,6.0,1
+COM00164.00,Bozymchak,Mine,Copper,"Copper, Gold, Silver",Open pit,Kyrgyzstan,7.0,1
+COM00168.00,Breapampa,Mine,Gold,"Gold, Silver",,Peru,3.0,0
+COM00170.00,Broadmeadow,Mine,Other mine,Metallurgical bituminous coal,Underground,Australia,16.0,1
+COM00176.00,Buchanan,Mine,Coal,Bituminous coal,Underground,United States of America,38.0,1
+COM00177.00,Buckingham,Mine,Coal,Bituminous coal,,United States of America,14.0,1
+COM00178.00,Buenavista,Mine,Copper,"Copper, Molybdenum, Copper Cathode, Silver","Open pit, SX-EW plant",Mexico,122.0,1
+COM00188.00,Bystrinsky GOK,Mine,Copper,"Copper, Iron, Gold",Open pit,Russian Federation,3.0,1
+COM00191.00,Cadiz,Mine,Coal,Bituminous coal,Surface,United States of America,21.0,1
+COM00197.00,Candelaria,Mine,Copper,"Copper, Gold, Silver",Open pit,Chile,28.0,1
+COM00205.00,Carlin,Mine,Gold,Gold,"Open pit, Underground, grinding circuit, roasting circuit, carbon-in leach circuit",United States of America,38.0,1
+COM00208.00,Carosue Dam,Mine,Gold,Gold,,Australia,11.0,1
+COM00209.00,Carrapateena,Mine,Other mine,"Copper, Gold",Underground,Australia,2.0,1
+COM00210.00,Casa de Pedra,Mine,Iron,Iron,Open pit,Brazil,108.0,1
+COM00215.00,Caval Ridge,Mine,Coal,Metallurgical bituminous coal,Open pit,Australia,7.0,1
+COM00217.00,CBG Sangaredi,Mine,Aluminium,Bauxite,,Guinea,48.0,1
+COM00224.00,Century,Mine,Zinc,"Lead, Zinc, Silver",Open pit,Australia,17.0,0
+COM00225.00,Cerrejon,Mine,Coal,Thermal bituminous coal,Open pit,Colombia,45.0,1
+COM00226.00,Cerro Bayo,Mine,Gold,"Gold, Silver",,Chile,26.0,1
+COM00229.00,Cerro Moro,Mine,Gold,"Gold, Silver, Copper","Open pit, Underground",Argentina,3.0,1
+COM00230.00,Cerro Negro,Mine,Gold,"Gold, Silver","Open pit, underground",Argentina,7.0,1
+COM00231.00,Cerro Negro Norte,Mine,Iron,Iron ore,,Chile,7.0,1
+COM00233.00,Cerro Verde,Mine,Copper,"Copper, Molybdenum, Silver","Open pit, SX-EW",Peru,45.0,1
+COM00244.00,Chapada,Mine,Copper,"Copper, Gold, Silver",Open pit,Brazil,15.0,1
+COM00250.00,Chibuluma South,Mine,Copper,Copper,"Underground, Open pit",Zambia,15.0,1
+COM00253.00,Chino,Mine,Copper,Copper,"Open pit, SX-EW",United States of America,111.0,1
+COM00256.00,Chotia,Mine,Coal,Thermal coal,Open pit,India,15.0,1
+COM00258.00,Cienega,Mine,Gold,"Silver, Gold, Lead, Zinc",Underground,Mexico,29.0,1
+COM00261.00,Clermont,Mine,Coal,Thermal coal,,Australia,11.0,1
+COM00262.00,Cliffs,Mine,Other mine,Nickel,Underground,Australia,13.0,1
+COM00264.00,Climax,Mine,Other (poly)-metallic,Molybdenum,Open pit,United States of America,9.0,1
+COM00266.00,Coal Valley,Mine,Coal,Bituminous coal,Surface,Canada,43.0,1
+COM00269.00,Cobre Las Cruces,Mine,Copper,"Copper, Copper cathode","Open pit, Leaching tanks",Spain,12.0,1
+COM00271.00,Cockatoo Island,Mine,Iron,"Iron, Iron ore fines",Open pit,Australia,28.0,1
+COM00272.00,Codelco Norte,Mine,Copper,"Copper, Copper cathodes, Molybdenum, Gold, Silver",Open pit,Chile,24.0,1
+COM00274.00,Coermotibo and Onverdacht,Mine,Aluminium,Bauxite,Open pit,Suriname,93.0,0
+COM00277.00,Collingwood,Mine,Other (poly)-metallic,Tin,Underground,Australia,2.0,0
+COM00280.00,Colstrip,Mine,Coal,Sub-bituminous coal,,United States of America,53.0,1
+COM00281.00,Conga,Mine,Other mine,"Gold, Silver, Copper",,Peru,10.0,1
+COM00283.00,Constancia,Mine,Copper,"Copper, Molybdenum, Gold, Silver",Open pit,Peru,7.0,1
+COM00298.00,Coyote Creek,Mine,Coal,Lignite,Surface,United States of America,5.0,1
+COM00300.00,Cracow,Mine,Gold,"Gold, Silver",Underground,Australia,17.0,1
+COM00302.00,Cripple Creek & Victor,Mine,Gold,"Gold, Silver","Open pit, Heap leaching plant",United States of America,45.0,1
+COM00305.00,Cuajone,Mine,Copper,"Copper, Molybdenum, Silver","Open pit, SX plant",Peru,45.0,1
+COM00314.00,Darling Range Mines,Mine,Aluminium,Bauxite,Open pit,Australia,58.0,1
+COM00319.00,Daunia,Mine,Coal,Metallurgical bituminous coal,Open pit,Australia,8.0,1
+COM00321.00,Daxin,"Mine, Refinery",Other (poly)-metallic,"Manganese, Electrolytic manganese metal, Manganese briquette, Electrolytic manganese dioxide, Manganese sulfate","Open pit, Underground",China,63.0,1
+COM00325.00,Deerni,Mine,Copper,"Copper, Copper cathode",Open Pit,China,14.0,1
+COM00326.00,Deflector,Mine,Gold,"Gold, Copper",Underground,Australia,5.0,1
+COM00327.00,DeGrussa,Mine,Copper,"Copper, Gold","Open pit, Underground",Australia,9.0,1
+COM00329.00,Denisovskiy,Mine,Coal,Coking coal,Open pit,Russian Federation,5.0,1
+COM00331.00,Dian Dian,Mine,Aluminium,Bauxite,,Guinea,4.0,1
+COM00332.00,Diavik,Mine,Other mine,Diamonds,,Canada,18.0,1
+COM00333.00,Didipio,Mine,Gold,"Gold, Copper, Silver","Open Pit, Underground",Philippines,8.0,1
+COM00334.00,Dilworth,Mine,Coal,Coal,Underground,United States of America,18.0,0
+COM00338.00,Dolores,Mine,Gold,"Silver, Gold","Open pit, Underground, cyanide heap leaching plant, Merrill Crowe plant",Mexico,13.0,1
+COM00341.00,Dotiki Complex,Mine,Coal,Coal,Underground,United States of America,53.0,0
+COM00344.00,Driefontein,Mine,Gold,Gold,"Underground, Surface",South Africa,69.0,1
+COM00352.00,Dugald River,Mine,Zinc,"Zinc, Lead, Silver",,Australia,3.0,1
+COM00354.00,Duketon,Mine,Gold,Gold,,Australia,11.0,1
+COM00363.00,Eagle,Mine,Nickel,"Nickel, Copper",Underground,United States of America,7.0,1
+COM00364.00,Eagle Pass,Mine,Coal,"Bituminous coal, Sub-bituminous coal",Surface,United States of America,6.0,1
+COM00368.00,Edikan,Mine,Gold,Gold,Open pit,Ghana,9.0,1
+COM00372.00,El Abra,Mine,Copper,Copper,"Open pit, SX-EW",Chile,25.0,1
+COM00382.00,El Teniente,"Mine, Smelter",Copper,"Copper, Copper anodes, Molybdenum, Gold, Silver","Open pit, Underground",Chile,117.0,1
+COM00383.00,El Volcan,Mine,Iron,Iron,Open pit,Mexico,10.0,0
+COM00386.00,Eleonore,Mine,Gold,Gold,Underground,Canada,6.0,1
+COM00387.00,Elgaugol,Mine,Coal,"Coking coal, Thermal coal",Open pit,Russian Federation,10.0,1
+COM00389.00,Emery,Mine,Coal,Coal,"Underground, Surface",United States of America,76.0,1
+COM00390.00,Empire,Mine,Iron,"Iron, Iron ore pellets",Open pit,United States of America,53.0,0
+COM00393.00,Ensham,Mine,Coal,Thermal coal,"Open cut, Underground",Australia,28.0,1
+COM00396.00,Escobal,Mine,Silver,"Silver, Gold, Zinc, Lead",Underground,Guatemala,8.0,1
+COM00397.00,Escondida,Mine,Copper,"Copper, Copper cathode, Gold, Silver","Open pit,  Oxide leaching, Sulphide leaching",Chile,31.0,1
+COM00399.00,Estevan,Mine,Coal,"Lignite, Coal",Surface,Canada,48.0,1
+COM00403.00,Extension Hill/Iron Hill,Mine,Iron,"Direct shipping iron ore, Iron ore",,Australia,10.0,0
+COM00408.00,Falkirk,Mine,Coal,Lignite,Surface,United States of America,43.0,1
+COM00412.00,Fernandinho,Mine,Iron,Iron,Open pit,Brazil,71.0,1
+COM00417.00,FNI Cagdianao,Mine,Nickel,Nickel,,Philippines,14.0,1
+COM00422.00,Fortnum Gold Operations,Mine,Gold,Gold,"Open pit, Underground, Carbon-in-leach plant",Australia,4.0,1
+COM00425.00,Francisco,Mine,Coal,Thermal coal,"Surface, Underground",United States of America,16.0,1
+COM00428.00,Freedom,Mine,Coal,Lignite,Surface,United States of America,38.0,1
+COM00429.00,Fresnillo,Mine,Silver,"Silver, Gold, Lead, Zinc",Underground,Mexico,467.0,1
+COM00431.00,Frontier,Mine,Copper,Copper,Open pit,DR Congo,14.0,1
+COM00436.00,Gabriela Mistral,Mine,Copper,"Copper, Copper cathodes",Open pit,Chile,13.0,1
+COM00448.00,Genesee,Mine,Coal,Sub-bituminous coal,Surface,Canada,33.0,1
+COM00484.00,Golden Grove,Mine,Copper,"Zinc, Copper, PGM, Copper, Lead, Gold, Silver","Open pit, Underground",Australia,31.0,1
+COM00486.00,Goldex,Mine,Gold,Gold,Underground,Canada,13.0,1
+COM00489.00,Goonyella Riverside,Mine,Coal,"Metallurgical bituminous coal, Thermal bituminous coal",Open pit,Australia,50.0,1
+COM00491.00,Gove,"Mine, Refinery",Aluminium,"Bauxite, Alumina",Open pit,Australia,51.0,1
+COM00496.00,Grasberg,Mine,Copper,"Copper, Gold, Silver","Open pit, Underground",Indonesia,54.0,1
+COM00502.00,Gregory,Mine,Coal,"Thermal bituminous coal, Metallurgical coal",Open pit,Australia,33.0,0
+COM00503.00,Griffin,Mine,Coal,Thermal coal,,Australia,94.0,1
+COM00506.00,Gualcamayo,Mine,Gold,Gold,"Open pit, Underground",Argentina,12.0,1
+COM00509.00,Guizhou,"Mine, Refinery, Smelter",Aluminium,"Bauxite, Alumina, Aluminium","Open pit, Underground",China,43.0,1
+COM00512.00,Gunnedah,"Mine, Refinery",Coal,Coal,Open cut,Australia,19.0,1
+COM00516.00,Haile,Mine,Gold,Gold,"Open Pit, Underground",United States of America,184.0,1
+COM00517.00,Halls Creek,Mine,Gold,Gold,Underground,Australia,6.0,1
+COM00521.00,Hamilton Complex,Mine,Coal,Coal,Underground,United States of America,8.0,1
+COM00530.00,Henderson,Mine,Other (poly)-metallic,Molybdenum,Open pit,United States of America,45.0,1
+COM00533.00,Herradura,Mine,Gold,"Gold, Silver","Open pit, Heap leach, Merrill-Crowe, Dynamic leaching plant",Mexico,24.0,1
+COM00534.00,Hibbing,Mine,Iron,Iron,Open pit,United States of America,45.0,1
+COM00539.00,Highvale,Mine,Coal,Thermal coal,,Canada,51.0,1
+COM00544.00,Hope Downs,Mine,Iron,Iron ore,Open Pit,Australia,14.0,1
+COM00549.00,Humphrey,Mine,Coal,Coal,Underground,United States of America,46.0,0
+COM00560.00,IMMSA - Charcas,Mine,Zinc,"Zinc, Lead, Copper",,Mexico,110.0,1
+COM00564.00,IMMSA - Taxco,Mine,Zinc,"Zinc, Lead","Underground, Flotation",Mexico,103.0,1
+COM00565.00,Impumelelo,Mine,Coal,Coal,Underground,South Africa,6.0,1
+COM00567.00,Inaglinskiy,Mine,Coal,Coking coal,Open pit,Russian Federation,5.0,1
+COM00569.00,Ingulets GOK,Mine,Iron,Iron,Open pit,Ukraine,56.0,1
+COM00577.00,Iron Valley,Mine,Iron,Iron,,Australia,6.0,1
+COM00586.00,Jabal Sayid,Mine,Copper,Copper,,Saudi Arabia,5.0,1
+COM00587.00,Jacinth-Ambrosia,"Mine, Refinery",Iron,"Zircon, Rutile, Ilmenite",Open pit,Australia,12.0,1
+COM00588.00,Jacobina,Mine,Gold,Gold,Underground,Brazil,38.0,1
+COM00589.00,Jamalco,"Mine, Refinery",Aluminium,"Bauxite, Alumina",Open pit,Jamaica,58.0,1
+COM00593.00,Jewett,Mine,Coal,Lignite,,United States of America,32.0,0
+COM00597.00,Jimblebar,Mine,Iron,Iron,Open pit,Australia,32.0,1
+COM00601.00,Jones Fork Complex,Mine,Coal,Coal,"Underground, Surface",United States of America,29.0,1
+COM00603.00,Julcani,Mine,Silver,"Gold, Silver, Lead, Copper",Underground,Peru,68.0,1
+COM00607.00,Juruti,Mine,Aluminium,Bauxite,Open pit,Brazil,12.0,1
+COM00611.00,Kalgoorlie,Mine,Gold,Gold,"Open pit, Underground",Australia,32.0,1
+COM00615.00,Kangala,Mine,Coal,Thermal coal,Open pit,South Africa,7.0,1
+COM00616.00,Kangalassky,Mine,Coal,Thermal coal,Open pit,Russian Federation,59.0,1
+COM00619.00,Karaganda,Mine,Coal,"Coking coal, Thermal coal",Underground,Kazakhstan,25.0,1
+COM00622.00,Karelsky Okatysh,Mine,Iron,"Iron, Iron concentrate, Iron ore pellets",,Russian Federation,39.0,1
+COM00625.00,Kayad,Mine,Zinc,"Lead, Zinc",Underground,India,7.0,1
+COM00630.00,Kemmerer,Mine,Coal,Sub-bituminous coal,Surface,United States of America,71.0,1
+COM00631.00,Kensington,Mine,Gold,Gold,Underground,United States of America,11.0,1
+COM00632.00,Kentobe,Mine,Iron,Iron,Open pit,Kazakhstan,38.0,1
+COM00638.00,Khumani,Mine,Iron,Iron,Open pit,South Africa,13.0,1
+COM00641.00,Kia-Shaltyr,Mine,Other mine,Nepheline ore,Open pit,Russian Federation,58.0,1
+COM00644.00,Kideco,Mine,Coal,Sub-bituminous coal,Open pit,Indonesia,39.0,1
+COM00648.00,Kinsenda,Mine,Copper,Copper,Underground,DR Congo,3.0,1
+COM00649.00,Kinsevere,Mine,Copper,"Copper, Copper cathode","Open pit, HMS, SX-EW",DR Congo,14.0,1
+COM00651.00,Kipoi,Mine,Copper,"Copper, Copper cathode","Open pit, SX-EW plant",DR Congo,10.0,1
+COM00655.00,Kittila,Mine,Gold,"Gold, Silver","Open pit, Underground",Finland,12.0,1
+COM00662.00,Kolwezi,Mine,Copper,Copper,Open Pit,DR Congo,4.0,1
+COM00665.00,Koolan Island,Mine,Iron,Iron ore,Open pit,Australia,56.0,1
+COM00672.00,Kostromovskaya,Mine,Coal,Coking coal,Underground,Russian Federation,13.0,1
+COM00676.00,Krasnogorsky,Mine,Coal,"Thermal coal, Anthracite",Open pit,Russian Federation,67.0,1
+COM00681.00,Kryvyi Rih,"Mine, Refinery, Smelter",Iron,"Iron, Steel, steel billets, rebars, wire rods, steel angles, merchant steel bar","Open pit, Underground, coke oven batteries, sintering plant, blast furnaces, basic oxygen converters, twin open hearth furnace, continuous billet caster, blooming mill, light section bar mill, wire rod mill",Ukraine,88.0,1
+COM00690.00,Kyzyl-Tash Turk,Mine,Zinc,"Zinc, Lead, Copper","Open Pit, Underground",Russian Federation,6.0,1
+COM00693.00,La Caridad,"Mine, Smelter, Refinery",Copper,"Copper, Molybdenum, Copper Cathode, Silver","Open pit, SX-EW plant",Mexico,42.0,1
+COM00695.00,La Colorada,Mine,Silver,"Silver, Gold, Zinc, Lead","Underground, Oxide leach plant",Mexico,96.0,1
+COM00696.00,La India,Mine,Gold,"Gold, Silver",Open pit,Mexico,7.0,1
+COM00698.00,La Zanja,Mine,Gold,"Gold, Silver","Open Pit, Carbon-in-column circuit, Merrill-Crowe circuit",Peru,11.0,1
+COM00705.00,Lapa,Mine,Gold,Gold,,Canada,9.0,0
+COM00707.00,LaRonde Complex,Mine,Gold,"Gold, Silver, Zinc, Copper",Underground,Canada,33.0,1
+COM00709.00,Las Truchas,Mine,Iron,Iron,Open pit,Mexico,45.0,1
+COM00714.00,Lebedinsky GOK,"Mine, Refinery",Iron,"Iron, Iron ore, Iron ore pellets, Hot briquetted Iron",Open pit,Russian Federation,49.0,1
+COM00715.00,Leer,Mine,Coal,Metallurgical coal,Underground,United States of America,8.0,1
+COM00719.00,Leinster,Mine,Other (poly)-metallic,Nickel,"Open Pit, Underground",Australia,42.0,1
+COM00721.00,Leonora,Mine,Gold,Gold,"Underground, Open pit, Carbon in Pulp circuit",Australia,13.0,1
+COM00723.00,Liberty,Mine,Coal,Lignite,Surface,United States of America,4.0,0
+COM00728.00,Lisakovsk,Mine,Iron,Iron,Open pit,Kazakhstan,52.0,1
+COM00739.00,Long Canyon,Mine,Gold,Gold,"Open pit, Leaching plant",United States of America,5.0,1
+COM00745.00,Los Colorados,Mine,Iron,Iron ore,,Chile,23.0,1
+COM00746.00,Los Filos,Mine,Gold,Gold,"Open pit, Underground",Mexico,13.0,1
+COM00747.00,Los Pelambres,Mine,Copper,"Copper, Molybdenum, Gold, Silver",,Chile,22.0,1
+COM00748.00,Loulo - Gounkoto,Mine,Other mine,Gold,"Open pit, Underground",Mali,16.0,1
+COM00750.00,Loveridge,Mine,Coal,"Thermal coal, Metallurgical coal",Underground,United States of America,65.0,1
+COM00751.00,Lubambe,Mine,Copper,Copper,Underground,Zambia,8.0,1
+COM00752.00,Lubin,Mine,Copper,"Copper, Silver, Lead, Gold",Underground,Poland,49.0,1
+COM00758.00,Macraes,Mine,Gold,"Gold, Silver","Open pit, Underground, Pressure oxidation plant",New Zealand,31.0,1
+COM00762.00,Mainpat,Mine,Aluminium,"Bauxite, Alumina",Open pit,India,28.0,1
+COM00763.00,Mallay,Mine,Silver,"Silver, Lead, Zinc, Gold",,Peru,9.0,1
+COM00766.00,Manantial Espejo,Mine,Gold,"Gold, Silver","Open pit, Underground, leaching plant, Merrill Crowe plant",Argentina,13.0,1
+COM00768.00,Mangoola,Mine,Coal,Thermal coal,Open pit,Australia,10.0,1
+COM00776.00,Marigold,Mine,Gold,Gold,"Open pit, Heap leach plant, electro-winning plant",United States of America,32.0,1
+COM00777.00,Marlin,Mine,Gold,"Gold, Silver",,Guatemala,12.0,0
+COM00778.00,Marshall,Mine,Coal,Lignite,Surface,United States of America,7.0,1
+COM00779.00,Martabe,Mine,Gold,Gold,,Indonesia,9.0,1
+COM00783.00,Maules Creek,Mine,Coal,Coal,Open cut,Australia,6.0,1
+COM00785.00,McArthur River,Mine,Zinc,"Zinc, Lead, Silver",Open pit,Australia,26.0,1
+COM00786.00,Meadowbank Complex,Mine,Gold,"Gold, Silver",Open pit,Canada,11.0,1
+COM00789.00,Meliadine,Mine,Gold,"Gold, Silver","Open pit, Underground",Canada,2.0,1
+COM00790.00,Mercedes,Mine,Gold,"Gold, Silver",Underground,Mexico,9.0,1
+COM00791.00,Merian,Mine,Gold,Gold,"Open pit, Leaching plant",Suriname,5.0,1
+COM00793.00,MetCoal,Mine,Coal,Semi-soft coking coal,,Indonesia,5.0,1
+COM00795.00,Mettiki Complex,Mine,Coal,Coal,Underground,United States of America,15.0,1
+COM00799.00,Mezhegey,Mine,Coal,Metallurgical coal,Underground,Russian Federation,7.0,1
+COM00800.00,Miami,"Mine, Smelter",Copper,"Copper, Sulphuric acid","Open pit, SX-EW",United States of America,106.0,1
+COM00808.00,Middlemount,Mine,Coal,"Coking coal, Pulverized Coal Injection",Surface,Australia,10.0,1
+COM00809.00,Midland Trail,Mine,Coal,Thermal coal,Underground,United States of America,12.0,1
+COM00811.00,Mikhailovsky GOK,"Mine, Refinery",Iron,"Iron, Iron ore pellets, Iron ore concentrate, Sintering iron ore",Open pit,Russian Federation,61.0,1
+COM00813.00,Mill Creek,Mine,Coal,Coal,"Underground, Surface",United States of America,27.0,1
+COM00815.00,Miller Creek Complex,Mine,Coal,Coal,"Underground, Surface",United States of America,12.0,0
+COM00821.00,Mine 84,Mine,Coal,Coal,Underground,United States of America,23.0,1
+COM00824.00,Ministro Hales,Mine,Copper,"Copper, Silver, Calcine",Open pit,Chile,11.0,1
+COM00826.00,Minorca,"Mine, Refinery",Iron,Iron,Open pit,United States of America,44.0,1
+COM00827.00,Minto,Mine,Copper,"Copper, Silver, Gold","Open Pit, Underground",Canada,14.0,1
+COM00828.00,Moa Project,Mine,Nickel,"Nickel, Cobalt","Surface, High-pressure acid leaching plant",Cuba,60.0,1
+COM00830.00,Moatize,Mine,Coal,"Coal, Metallurgical coal, Thermal coal",Open pit,Mozambique,10.0,1
+COM00834.00,Mont Wright,Mine,Iron,Iron,Open pit,Canada,45.0,1
+COM00840.00,Morenci,Mine,Copper,"Copper, Molybdenum","Open pit, SX-EW",United States of America,82.0,1
+COM00844.00,Morro da Mina,Mine,Other (poly)-metallic,Manganese,Open pit,Brazil,119.0,1
+COM00850.00,Mount Arthur,Mine,Coal,Thermal bituminous coal,Open pit,Australia,19.0,1
+COM00852.00,Mount Goldsworthy,Mine,Iron,Iron,Open pit,Australia,55.0,1
+COM00853.00,Mount Keith,Mine,Nickel,Nickel,Open pit,Australia,26.0,1
+COM00854.00,Mount Marion,Mine,Other (poly)-metallic,Lithium,,Australia,5.0,1
+COM00855.00,Mount Monger,Mine,Gold,Gold,"Open pit, Underground",Australia,13.0,1
+COM00856.00,Mount Newman,Mine,Iron,Iron,Open pit,Australia,52.0,1
+COM00857.00,Mount Thorley Warkworth,Mine,Coal,"Thermal coal, Soft coking coal, semi-soft coking coal",,Australia,40.0,1
+COM00861.00,MRN Porto Trombetas,Mine,Aluminium,Bauxite,,Brazil,42.0,1
+COM00862.00,Mt Cattlin,Mine,Other (poly)-metallic,"Spodumene, Lithium",Open pit,Australia,10.0,1
+COM00864.00,Mt Magnet,Mine,Gold,Gold,"Underground, Open pit",Australia,9.0,1
+COM00868.00,Muhlenberg,Mine,Coal,Bituminous coal,Surface,United States of America,9.0,0
+COM00870.00,Murowa,Mine,Other mine,Diamonds,,Zimbabwe,17.0,1
+COM00872.00,Murrin Murrin,Mine,Nickel,"Nickel, Cobalt, Copper",Open pit,Australia,22.0,1
+COM00875.00,Muswellbrook,Mine,Coal,Thermal coal,"Underground, Open cut",Australia,16.0,1
+COM00885.00,Narrabri,Mine,Coal,Coal,Underground,Australia,9.0,1
+COM00887.00,Navajo,Mine,Coal,"Thermal bituminous coal, Sub-bituminous coal",Open pit,United States of America,58.0,1
+COM00888.00,Neryungrinsky,Mine,Coal,"Coking coal, Thermal coal",Open pit,Russian Federation,42.0,1
+COM00890.00,New Clydesdale,Mine,Coal,Thermal coal,"Open pit, Underground",South Africa,4.0,1
+COM00892.00,New Lexington,Mine,Coal,Bituminous coal,Surface,United States of America,28.0,1
+COM00905.00,Noble,Mine,Coal,Bituminous coal,Surface,United States of America,15.0,1
+COM00906.00,Noche Buena,Mine,Gold,"Gold, Silver","Open pit, Heap leach, Merrill-Crowe",Mexico,9.0,1
+COM00923.00,Northshore,Mine,Iron,"Iron, Direct Reduction Iron Pellets",Open pit,United States of America,31.0,1
+COM00924.00,Norwich Park,Mine,Coal,Metallurgical bituminous coal,Open pit,Australia,33.0,0
+COM00926.00,Nueva Rosita Complex,Mine,Coal,"Coal, Metallurgical coke, coke, tar, ammonium sulfate, light crude oil","Open pit, underground, coke facility, coal washing plant",Mexico,97.0,1
+COM00929.00,Oak Grove,Mine,Coal,Metallurgical coal,Underground,United States of America,49.0,1
+COM00931.00,Obed Mountain,Mine,Coal,Bituminous coal,,Canada,29.0,0
+COM00936.00,Olcon,Mine,Iron,"Iron, Iron ore concentrate, Ferrite Strontium Powder","Open pit, Underground",Russian Federation,72.0,1
+COM00937.00,Olympic Dam,"Mine, Refinery, Smelter",Copper,"Copper, Coper Anodes, Copper cathodes, Uranium oxide, Gold, Silver","Underground, Flash Furnace, SX-EW, Grinding circuits",Australia,33.0,1
+COM00938.00,Olzherassky,Mine,Coal,"Thermal coal, Coking coal","Underground, Open pit",Russian Federation,20.0,1
+COM00942.00,Orcopampa,Mine,Gold,"Gold, Silver, Copper","Underground, Carbon-in-leach plant",Peru,54.0,1
+COM00952.00,Paintearth,Mine,Coal,Sub-bituminous coal,Surface,Canada,65.0,1
+COM00954.00,Palmarejo,Mine,Silver,"Gold, Silver","Underground, Open pit",Mexico,12.0,1
+COM00955.00,Pampa Norte,Mine,Copper,"Copper, Copper cathode","Open pit, SX-EW",Chile,27.0,1
+COM00960.00,Paragominas,Mine,Aluminium,Bauxite,,Brazil,14.0,1
+COM00965.00,Pattiki Complex,Mine,Coal,Coal,Underground,United States of America,36.0,0
+COM00969.00,Peak Downs,Mine,Coal,Metallurgical bituminous coal,Open pit,Australia,49.0,1
+COM00970.00,Pena Colorada,Mine,Iron,Iron,Open pit,Mexico,47.0,1
+COM00971.00,Penasquito,Mine,Gold,"Gold, Silver, Lead, Zinc",Open pit,Mexico,11.0,1
+COM00973.00,Penjom,Mine,Gold,Gold,Resin-In-Leach plant,Malaysia,25.0,1
+COM00974.00,Pennsylvania Mining Complex,Mine,Coal,"Bituminous coal, Metallurgical coal",Underground,United States of America,37.0,1
+COM00977.00,Perkasa Inakakerta,Mine,Coal,Sub-bituminous coal,Open pit,Indonesia,14.0,1
+COM00980.00,Phil's Creek,Mine,Iron,Iron,,Australia,3.0,0
+COM00981.00,Phoenix,Mine,Copper,"Gold, Copper, Copper cathode","Open pit, SX-EW, carbon-in-leach, copper leach pad",United States of America,57.0,1
+COM00986.00,Pingguo,"Mine, Refinery, Smelter",Aluminium,"Bauxite, Alumina, Aluminium",Open pit,China,27.0,1
+COM00989.00,Pinnacle Complex,Mine,Coal,Metallurgical coal,Underground,United States of America,52.0,1
+COM00990.00,Pinos Altos,Mine,Gold,"Gold, Silver","Open pit, Underground",Mexico,12.0,1
+COM00991.00,Pinto Valley,Mine,Copper,"Copper, Copper cathode, Molybdenum, Silver, Gold",Open pit,United States of America,47.0,1
+COM00993.00,Plainfield,Mine,Coal,Bituminous coal,Surface,United States of America,31.0,1
+COM00996.00,Pocos de Caldas,"Mine, Refinery",Aluminium,"Bauxite, Alumina",Open pit,Brazil,56.0,1
+COM00999.00,Poitrel,Mine,Coal,Metallurgical bituminous coal,Open pit,Australia,15.0,1
+COM01000.00,Polkowice-Sieroszowice,Mine,Copper,"Copper, Silver, Lead, Gold",Underground,Poland,25.0,1
+COM01005.00,Poplar River,Mine,Coal,Lignite,Surface,Canada,43.0,1
+COM01006.00,Poracota,Mine,Gold,"Gold, Silver",Underground,Peru,14.0,1
+COM01010.00,POSMAC,Mine,Other mine,Iron,Open pit,Australia,18.0,1
+COM01012.00,Prijedor,Mine,Iron,Iron,Open pit,Bosnia and Herzegovina,105.0,1
+COM01015.00,Prominent Hill,Mine,Copper,"Copper, Gold, Silver","Underground, Open pit",Australia,12.0,1
+COM01016.00,PT Adaro Indonesia,Mine,Coal,Sub-bituminous coal,Open pit,Indonesia,29.0,1
+COM01017.00,PT Adimitra Baratama Nusantara,Mine,Coal,Thermal coal,Open pit,Indonesia,13.0,1
+COM01019.00,PT Antang Gunung Meratus,Mine,Coal,Coal,Open pit,Indonesia,22.0,1
+COM01021.00,PT Baramulti Suksessarana Tbk,Mine,Coal,Coal,Open pit,Indonesia,11.0,1
+COM01025.00,PT Bharinto Ekatama,Mine,Coal,Coal,,Indonesia,9.0,1
+COM01031.00,PT Indomining,Mine,Coal,Thermal coal,Open pit,Indonesia,14.0,1
+COM01033.00,PT Internasional Prima Coal,Mine,Coal,Coal,Open pit,Indonesia,12.0,1
+COM01037.00,PT Karya Usaha Pertiwi,Mine,Coal,Thermal coal,Open pit,Indonesia,3.0,1
+COM01039.00,PT Mahakam Sumber Jaya,Mine,Coal,Thermal coal,Open pit,Indonesia,17.0,1
+COM01040.00,PT Mitrabara Adiperdana Tbk,Mine,Coal,Coal,,Indonesia,13.0,1
+COM01041.00,PT Multi Tambangjaya Utama,Mine,Coal,"Bituminous thermal coal, Bituminous coking coal",Open pit,Indonesia,5.0,1
+COM01045.00,PT Triaryani,Mine,Coal,Coal,Open pit,Indonesia,7.0,1
+COM01046.00,PT Trisensa Mineral Utama,Mine,Coal,Thermal coal,Open pit,Indonesia,10.0,1
+COM01052.00,Pueblo Viejo,Mine,Gold,Gold,Open Pit,Dominican Republic,8.0,1
+COM01060.00,Quiruvilca,Mine,Silver,"Silver, Gold, Zinc, Lead, Copper",Underground,Peru,81.0,1
+COM01061.00,Rajpura Dariba,Mine,Zinc,"Lead, Zinc",Underground,India,38.0,1
+COM01065.00,Raven,Mine,Coal,Coal,Underground,United States of America,15.0,1
+COM01072.00,Red Dog,Mine,Zinc,"Zinc, Lead",Open pit,United States of America,32.0,1
+COM01073.00,Red Hills,Mine,Coal,Lignite,Surface,United States of America,21.0,1
+COM01077.00,Reefton,Mine,Gold,Gold,Open pit,New Zealand,9.0,0
+COM01080.00,Rend Lake,Mine,Coal,Coal,Underground,United States of America,35.0,1
+COM01088.00,River View Complex,Mine,Coal,Coal,Underground,United States of America,12.0,1
+COM01092.00,Robinson Run,Mine,Coal,"Thermal coal, Metallurgical coal",Underground,United States of America,55.0,1
+COM01097.00,Rosebery,Mine,Zinc,"Zinc, Lead, Copper, Gold, Silver",Underground,Australia,85.0,1
+COM01100.00,Rössing,Mine,Other (poly)-metallic,Uranium,Open pit,Namibia,45.0,1
+COM01102.00,Ruashi,Mine,Copper,"Copper, Cobalt, Copper cathode, Cobalt hydroxide","Open cast, SX-EW plant",DR Congo,14.0,1
+COM01104.00,Rudna,Mine,Copper,"Copper, Silver, Lead, Gold",Underground,Poland,47.0,1
+COM01107.00,Safford,Mine,Copper,Copper,"Open pit, SX-EW",United States of America,14.0,1
+COM01112.00,Salobo,Mine,Copper,"Copper, Gold",Open pit,Brazil,9.0,1
+COM01113.00,Salvador,Mine,Copper,"Copper, Copper cathodes, Molybdenum, Gold, Silver","Open pit, Underground",Chile,62.0,1
+COM01114.00,Samarco,Mine,Iron,Iron,Open pit,Brazil,44.0,1
+COM01117.00,San Bartolome,Mine,Silver,Silver,Open pit,Bolivia,13.0,1
+COM01120.00,San Jose,Mine,Iron,Iron,Open pit,Mexico,75.0,1
+COM01121.00,San Juan,Mine,Coal,Sub-bituminous coal,,United States of America,48.0,1
+COM01123.00,San Julian,Mine,Silver,"Silver, Gold, Lead, Zinc",Underground,Mexico,5.0,1
+COM01127.00,San Miguel,Mine,Coal,Lignite,Surface,United States of America,41.0,1
+COM01134.00,Saraji,Mine,Coal,Metallurgical bituminous coal,Open pit,Australia,47.0,1
+COM01138.00,Saucito,Mine,Silver,"Silver, Gold, Lead, Zinc",Underground,Mexico,10.0,1
+COM01139.00,Savage,Mine,Coal,Lignite,,United States of America,63.0,1
+COM01143.00,Seabee,Mine,Gold,Gold,,Canada,30.0,1
+COM01147.00,Selian,Mine,Coal,Coal,Underground,China,8.0,1
+COM01152.00,Serra Azul,Mine,Iron,Iron,Open pit,Brazil,75.0,1
+COM01158.00,Seruyung,Mine,Gold,Gold,Heap leaching plant,Indonesia,7.0,1
+COM01173.00,Sheerness,Mine,Coal,Sub-bituminous coal,Surface,Canada,37.0,1
+COM01181.00,Shoemaker,Mine,Coal,Coal,Underground,United States of America,55.0,1
+COM01183.00,Shuguang,Mine,Gold,"Gold, Copper","Open Pit, Underground",China,18.0,1
+COM01187.00,Sibirginsky,Mine,Coal,"Coking coal, Thermal coal","Open pit, Underground",Russian Federation,51.0,1
+COM01188.00,Sierra Gorda,Mine,Copper,"Copper, Molybdenum, Gold",Open pit,Chile,6.0,1
+COM01190.00,Sierrita,Mine,Copper,"Copper, Molybdenum","Open pit, SX-EW",United States of America,62.0,1
+COM01195.00,Simberi,Mine,Gold,Gold,Open pit,Papua New Guinea,13.0,1
+COM01198.00,Sino Iron,Mine,Iron,Iron ore,Open pit,Australia,8.0,1
+COM01200.00,Sissingue,Mine,Gold,Gold,"Open pit, Carbon in Leach plant",Cote d'Ivoire,3.0,1
+COM01201.00,Skorpion,"Mine, Refinery",Zinc,"Zinc, Zinc ingots",Open pit,Namibia,18.0,1
+COM01209.00,Sossego,Mine,Copper,"Copper, Gold",Open pit,Brazil,17.0,1
+COM01211.00,South Hallsville No. 1,Mine,Coal,Lignite,Surface,United States of America,36.0,1
+COM01214.00,South Walker Creek,Mine,Coal,Metallurgical bituminous coal,Open pit,Australia,25.0,1
+COM01226.00,Stepnoy,Mine,Coal,Coal,,Russian Federation,28.0,1
+COM01253.00,Taldybulak Levoberezhny,Mine,Gold,Gold,Underground,Kyrgyzstan,15.0,1
+COM01254.00,Tallering Peak,Mine,Iron,Iron ore,,Australia,12.0,0
+COM01255.00,Tambomayo,Mine,Gold,"Gold, Silver, Lead, Zinc",Underground,Peru,5.0,1
+COM01256.00,Tanami,Mine,Gold,Gold,Underground,Australia,38.0,1
+COM01258.00,Tantahuatay,Mine,Gold,"Gold, Silver",Open Pit,Peru,10.0,1
+COM01264.00,Tashan,Mine,Coal,Coal,Underground,China,15.0,1
+COM01268.00,Tayan,"Mine, Refinery",Aluminium,"Bauxite, Chemical grade Alumina, Aluminium hydroxide","Bayer process plant, Open pit",Indonesia,12.0,1
+COM01269.00,Teguh Sinarabadi and Firman Ketaun Perkasa,Mine,Coal,Bituminous coal,Open pit,Indonesia,14.0,1
+COM01273.00,Tenke Fungurume,Mine,Copper,"Copper, Cobalt",Open pit,DR Congo,12.0,1
+COM01278.00,Thunderbox,Mine,Gold,Gold,,Australia,5.0,1
+COM01280.00,Tianchi,Mine,Coal,Thermal coal,Underground,China,15.0,1
+COM01281.00,Tiandeng,"Mine, Refinery",Other (poly)-metallic,"Manganese, Electrolytic manganese metal",Open pit,China,65.0,1
+COM01282.00,Tilden,Mine,Iron,"Iron, Iron ore pellets",Open pit,United States of America,47.0,1
+COM01284.00,Timmins West & Bell Creek,Mine,Gold,Gold,Underground,Canada,10.0,1
+COM01288.00,Tomusinsky,Mine,Coal,"Coking coal, Thermal coal",Open pit,Russian Federation,62.0,1
+COM01290.00,Toquepala,Mine,Copper,"Copper, Molybdenum, Copper Cathode, Silver","Open pit, SX-EW plant",Peru,61.0,1
+COM01292.00,Touquoy,Mine,Gold,Gold,"Open pit, Carbon in Leach circuit",Canada,4.0,1
+COM01295.00,Tritton,Mine,Copper,"Copper, Gold, Silver",Underground,Australia,17.0,1
+COM01299.00,Tuhup,Mine,Coal,Metallurgical coal,,Indonesia,12.0,1
+COM01300.00,Tujuh Bukit,Mine,Gold,"Gold, Copper","Open pit, leaching plant",Indonesia,4.0,1
+COM01302.00,Tunnel Ridge Complex,Mine,Coal,Coal,Underground,United States of America,11.0,1
+COM01303.00,Tuscarawas,Mine,Coal,Bituminous coal,Surface,United States of America,18.0,1
+COM01304.00,Tusky,Mine,Other mine,Bituminous coal,Surface,United States of America,18.0,1
+COM01310.00,Two Rivers,Mine,Other (poly)-metallic,"Platinum, Palladium, Rhodium, Ruthenium, Iridium, Gold, Nickel, Copper, Chrome",Underground,South Africa,14.0,1
+COM01311.00,Tyrone,Mine,Copper,Copper,"Open pit, SX-EW",United States of America,54.0,1
+COM01313.00,Ubuntu,Mine,Coal,Thermal coal,,South Africa,1.0,1
+COM01314.00,Uchucchacua,Mine,Silver,"Silver, Lead, Zinc, Manganese",Underground,Peru,46.0,1
+COM01319.00,United Taconite,Mine,Iron,"Iron, Iron ore pellets",Open pit,United States of America,56.0,1
+COM01324.00,V.I. Lenina,Mine,Coal,Coking coal,Underground,Russian Federation,68.0,1
+COM01342.00,Vorkutaugol,Mine,Coal,"Hard coking coal, Semi-soft coking coal, Thermal coal, Coking coal concentrate","Open pit, Underground",Russian Federation,88.0,1
+COM01343.00,VP-8,Mine,Coal,Coal,Underground,United States of America,28.0,1
+COM01345.00,Wabush,Mine,Iron,"Iron, Iron ore pellets",Open pit,Canada,49.0,0
+COM01348.00,Wahana Baratama,Mine,Coal,Bituminous coal,Open pit,Indonesia,14.0,1
+COM01350.00,Waihi,Mine,Gold,Gold,"Open Pit, Underground",New Zealand,33.0,1
+COM01353.00,Warrior Complex,Mine,Coal,Coal,Underground,United States of America,36.0,1
+COM01358.00,Wenyu,Mine,Coal,Thermal coal,Underground,China,24.0,1
+COM01359.00,Werris Creek,Mine,Coal,Coal,Open cut,Australia,16.0,1
+COM01364.00,Western Range Project,Mine,Iron,Iron,Open pit,Liberia,10.0,1
+COM01365.00,Westside,Mine,Coal,Thermal coal,Open pit,Australia,20.0,0
+COM01366.00,Wetar,Mine,Copper,Copper,"Open pit, SX-EW plant",Indonesia,11.0,1
+COM01368.00,Whim Creek,Mine,Copper,Copper,"Open pit, SX-EW",Australia,16.0,1
+COM01369.00,Whitewood,Mine,Coal,Thermal coal,,Canada,54.0,0
+COM01373.00,Wilpinjong,Mine,Coal,Thermal coal,Surface,Australia,15.0,1
+COM01374.00,Wiluna,Mine,Gold,Gold,"Open pit, Underground",Australia,5.0,1
+COM01384.00,Xinjiang Jinbao,Mine,Iron,Iron ore,,China,17.0,1
+COM01387.00,Yakovlevskiy,Mine,Iron,Iron,,Russian Federation,24.0,1
+COM01388.00,Yanacocha,Mine,Gold,"Gold, Silver","Open pit, Underground",Peru,28.0,1
+COM01390.00,Yandi,Mine,Iron,Iron,Open pit,Australia,29.0,1
+COM01391.00,Yangcun,Mine,Coal,Thermal coal,Underground,China,33.0,1
+COM01399.00,Yauricocha,Mine,Zinc,"Silver, Gold, Zinc, Lead, Copper",Underground,Peru,73.0,1
+COM01415.00,Zarechnaya,Mine,Coal,Coal,Underground,Russian Federation,68.0,1
+COM01418.00,Zeravshan,Mine,Gold,Gold,"Open Pit, Underground",Tajikistan,14.0,1
+COM01419.00,Zhaolou,Mine,Coal,Coking coal,Underground,China,12.0,1
+COM01430.00,Zijinshan,Mine,Gold,"Gold, Copper, Copper cathodes, Silver",Open Pit,China,41.0,1
+COM01432.00,Zinkgruvan,Mine,Zinc,"Lead, Silver, Copper, Zinc",,Sweden,164.0,1
+COM00007.03,AGA Mineracao,Mine,Gold,Gold,"Open pit, Underground",Brazil,32.0,1
+COM00007.04,AGA Mineracao,Mine,Gold,Gold,"Open pit, Underground",Brazil,32.0,1
+COM00055.01,Anyuan,Mine,Coal,Thermal coal,,China,17.0,1
+COM00055.02,Anyuan,Mine,Coal,Thermal coal,,China,5.0,1
+COM00086.01,Bakan,Mine,Gold,Gold,Heap leaching plant,Indonesia,8.0,1
+COM00086.02,Bakan,Mine,Gold,Gold,Heap leaching plant,Indonesia,17.0,1
+COM00125.01,Berezovskaya,Mine,Coal,Metallurgical coal,,Russian Federation,46.0,1
+COM00139.02,Black Mountain,Mine,Other (poly)-metallic,"Zinc, Copper, Lead, Silver",Open pit,South Africa,2.0,1
+COM00197.02,Candelaria,Mine,Copper,Copper,Underground,Chile,92.0,1
+COM00210.02,Casa de Pedra,Mine,Iron,Iron,Open pit,Brazil,71.0,1
+COM00263.01,Cliffs Logan County Coal,Mine,Coal,Metallurgical coal,Underground,United States of America,13.0,1
+COM00263.02,Cliffs Logan County Coal,Mine,Coal,Metallurgical coal,Underground,United States of America,9.0,1
+COM00263.03,Cliffs Logan County Coal,Mine,Coal,Thermal coal,Open pit,United States of America,16.0,1
+COM00272.01,Codelco Norte,Mine,Copper,"Copper, Copper cathodes, Gold, Silver",Open pit,Chile,24.0,1
+COM00272.02,Codelco Norte,Mine,Copper,"Copper, Copper cathodes",Open pit,Chile,106.0,1
+COM00317.01,Datong Coal Industry,Mine,Coal,Coal,Underground,China,15.0,1
+COM00354.01,Duketon,Mine,Gold,Gold,,Australia,9.0,1
+COM00354.02,Duketon,Mine,Gold,Gold,,Australia,8.0,1
+COM00354.03,Duketon,Mine,Gold,Gold,,Australia,11.0,1
+COM00361.01,Dynamic Energy,Mine,Coal,Coal,Open pit,United States of America,24.0,1
+COM00361.02,Dynamic Energy,Mine,Coal,Coal,Underground,United States of America,14.0,1
+COM00417.01,FNI Cagdianao,Mine,Nickel,Nickel,,Philippines,7.0,1
+COM00417.02,FNI Cagdianao,Mine,Nickel,Nickel,,Philippines,17.0,1
+COM00480.01,Gibson Complex,Mine,Coal,Coal,Underground,United States of America,7.0,1
+COM00480.02,Gibson Complex,Mine,Coal,Coal,Underground,United States of America,21.0,1
+COM00489.01,Goonyella Riverside,Mine,Coal,Thermal bituminous coal,Open pit,Australia,50.0,1
+COM00507.01,Guanaco and Amancaya,Mine,Gold,Gold,,Chile,11.0,1
+COM00507.02,Guanaco and Amancaya,Mine,Gold,Gold,"Open pit, Underground",Chile,4.0,1
+COM00558.01,Iluka Western Australia,Mine,Iron,"Zicron, Rutile, Ilmenite",,Australia,2.0,1
+COM00583.01,Itabira,Mine,Gold,Iron,Open pit,Brazil,79.0,1
+COM00583.02,Itabira,Mine,Gold,Iron,Open pit,Brazil,64.0,1
+COM00608.01,Justice Energy,Mine,Coal,Coal,Open pit,United States of America,39.0,1
+COM00610.01,Kachkanar GOK,Mine,Iron,Iron ore,Open pit,Russian Federation,58.0,1
+COM00610.02,Kachkanar GOK,Mine,Iron,Iron ore,Open pit,Russian Federation,54.0,1
+COM00610.03,Kachkanar GOK,Mine,Iron,Iron ore,Open pit,Russian Federation,50.0,1
+COM00610.04,Kachkanar GOK,Mine,Iron,Iron ore,Open pit,Russian Federation,6.0,1
+COM00619.01,Karaganda,Mine,Coal,Coal,Underground,Kazakhstan,23.0,1
+COM00619.02,Karaganda,Mine,Coal,Coal,Underground,Kazakhstan,62.0,1
+COM00619.03,Karaganda,Mine,Coal,Coal,Underground,Kazakhstan,66.0,1
+COM00619.04,Karaganda,Mine,Coal,Coal,Underground,Kazakhstan,60.0,1
+COM00619.05,Karaganda,Mine,Coal,Coal,Underground,Kazakhstan,52.0,1
+COM00619.06,Karaganda,Mine,Coal,Coal,Underground,Kazakhstan,57.0,1
+COM00619.07,Karaganda,Mine,Coal,Coal,Underground,Kazakhstan,48.0,1
+COM00619.08,Karaganda,Mine,Coal,Coal,Underground,Kazakhstan,42.0,1
+COM00624.01,Katanga Mining Complex,"Mine, Refinery",Copper,"Copper, Cobalt","Underground, Leaching plant",DR Congo,52.0,1
+COM00624.02,Katanga Mining Complex,Mine,Copper,"Copper, Cobalt",Open pit,DR Congo,52.0,1
+COM00627.01,Kazzinc,Mine,Zinc,Gold,,Kazakhstan,12.0,1
+COM00627.05,Kazzinc,Mine,Zinc,,,Kazakhstan,6.0,1
+COM00627.08,Kazzinc,Mine,Zinc,"Copper, Zinc, Lead, Gold, Silver",Underground,Kazakhstan,21.0,1
+COM00636.01,Keystone,Mine,Coal,Coal,Underground,United States of America,23.0,1
+COM00636.02,Keystone,Mine,Coal,Coal,Underground,United States of America,23.0,1
+COM00636.03,Keystone,Mine,Coal,Coal,Open pit,United States of America,8.0,1
+COM00670.01,Korshunov,Mine,Iron,Iron ore,Open pit,Russian Federation,56.0,1
+COM00670.02,Korshunov,Mine,Iron,Iron ore,Open pit,Russian Federation,37.0,1
+COM00670.03,Korshunov,Mine,Iron,Iron ore,Open pit,Russian Federation,35.0,1
+COM00672.01,Kostromovskaya,Mine,Coal,Coking coal,Underground,Russian Federation,13.0,1
+COM00672.02,Kostromovskaya,Mine,Coal,Coking coal,Underground,Russian Federation,3.0,1
+COM00678.01,Krasnoyarskkraiugol,Mine,Coal,Coal,Open pit,Russian Federation,30.0,1
+COM00707.02,LaRonde Complex,Mine,Gold,Gold,,Canada,4.0,1
+COM00721.01,Leonora,Mine,Gold,Gold,Underground,Australia,5.0,0
+COM00721.02,Leonora,Mine,Gold,Gold,"Underground, Open pit",Australia,13.0,1
+COM00774.01,Mariana,Mine,Iron,Iron,Open pit,Brazil,21.0,1
+COM00774.02,Mariana,Mine,Iron,Iron,Open pit,Brazil,16.0,1
+COM00774.03,Mariana,Mine,Iron,Iron,Open pit,Brazil,45.0,1
+COM00774.04,Mariana,Mine,Iron,Iron,Open pit,Brazil,37.0,1
+COM00774.05,Mariana,Mine,Iron,Iron,Open pit,Brazil,39.0,1
+COM00793.02,MetCoal,Mine,Coal,Coal,,Indonesia,2.0,1
+COM00795.01,Mettiki Complex,Mine,Coal,Coal,Underground,United States of America,15.0,1
+COM00810.02,Miguel Burnier,Mine,Iron,Iron ore,Open pit,Brazil,12.0,1
+COM00818.01,Minas Centrais,Mine,Iron,Iron,Open pit,Brazil,21.0,1
+COM00818.02,Minas Centrais,Mine,Iron,Iron,Open pit,Brazil,21.0,1
+COM00818.03,Minas Centrais,Mine,Iron,Iron,Open pit,Brazil,27.0,1
+COM00818.04,Minas Centrais,Mine,Iron,Iron,Open pit,Brazil,21.0,1
+COM00852.03,Mount Goldsworthy,Mine,Iron,Iron,Open pit,Australia,18.0,1
+COM00864.04,Mt Magnet,Mine,Gold,Gold,,Australia,5.0,1
+COM00914.01,North Eastern Coalfields,Mine,Coal,Coal,"Open pit, Underground",India,35.0,1
+COM00914.02,North Eastern Coalfields,Mine,Coal,Coal,Open pit,India,38.0,1
+COM00918.01,Northern Coalfields Limited,Mine,Coal,Coal,,India,34.0,1
+COM00955.01,Pampa Norte,Mine,Copper,Copper,Open pit,Chile,15.0,1
+COM00962.01,Paraopeba,Mine,Iron,Iron,Open pit,Brazil,20.0,1
+COM00962.02,Paraopeba,Mine,Iron,Iron,Open pit,Brazil,18.0,1
+COM00962.03,Paraopeba,Mine,Iron,Iron,Open pit,Brazil,17.0,1
+COM00974.01,Pennsylvania Mining Complex,Mine,Coal,Metallurgical coal,Underground,United States of America,37.0,1
+COM00974.03,Pennsylvania Mining Complex,Mine,Coal,Metallurgical coal,Underground,United States of America,32.0,1
+COM00974.04,Pennsylvania Mining Complex,Mine,Coal,Metallurgical coal,Underground,United States of America,8.0,1
+COM00989.02,Pinnacle Complex,Mine,Coal,Metallurgical coal,Underground,United States of America,8.0,0
+COM01028.01,PT Central Omega Resources Tbk,Mine,Other (poly)-metallic,Nickel,,Indonesia,10.0,1
+COM01028.02,PT Central Omega Resources Tbk,Mine,Other (poly)-metallic,Nickel,,Indonesia,8.0,1
+COM01028.03,PT Central Omega Resources Tbk,Mine,Other (poly)-metallic,Nickel,,Indonesia,10.0,1
+COM01049.01,PT Tuah Turangga Agung,Mine,Coal,Thermal coal,,Indonesia,8.0,1
+COM01049.02,PT Tuah Turangga Agung,Mine,Coal,Thermal coal,,Indonesia,11.0,1
+COM01049.03,PT Tuah Turangga Agung,Mine,Coal,Thermal coal,,Indonesia,14.0,1
+COM01049.04,PT Tuah Turangga Agung,Mine,Coal,Coking coal,,Indonesia,7.0,1
+COM01049.05,PT Tuah Turangga Agung,Mine,Coal,Thermal coal,,Indonesia,14.0,1
+COM01049.06,PT Tuah Turangga Agung,Mine,Coal,Thermal coal,,Indonesia,8.0,1
+COM01053.01,Puna,Mine,Silver,,,Argentina,12.0,1
+COM01053.02,Puna,Mine,Silver,,Open pit,Argentina,3.0,1
+COM01061.01,Rajpura Dariba,Mine,Zinc,"Lead, Zinc",Underground,India,15.0,1
+COM01064.01,Raspadskaya,Mine,Coal,Metallurgical coal,Underground,Russian Federation,48.0,1
+COM01064.02,Raspadskaya,Mine,Coal,Metallurgical coal,Open pit,Russian Federation,17.0,1
+COM01064.04,Raspadskaya,Mine,Coal,Metallurgical coal,Underground,Russian Federation,18.0,1
+COM01074.03,Red Lake,Mine,Gold,Gold,Underground,Canada,7.0,1
+COM01238.01,SUEK Primorye,Mine,Coal,Hard coal,Open pit,Russian Federation,4.0,1
+COM01244.02,Sycamore and Imperial,Mine,Coal,"Metallurgical coal, Thermal coal",,United States of America,6.0,0
+COM01244.04,Sycamore and Imperial,Mine,Coal,Coal,Underground,United States of America,22.0,1
+COM01295.01,Tritton,Mine,Copper,Copper,Underground,Australia,17.0,1
+COM01295.02,Tritton,Mine,Copper,Copper,"Open pit, Underground",Australia,5.0,1
+COM01329.01,Vargem Grande,Mine,Iron,Iron,Open pit,Brazil,28.0,1
+COM01329.02,Vargem Grande,Mine,Iron,Iron,Open pit,Brazil,24.0,1
+COM01329.03,Vargem Grande,Mine,Iron,Iron,Open pit,Brazil,17.0,1
+COM01354.02,Watagan,Mine,Coal,semi-hard coking coal,,Australia,15.0,1
+COM01389.01,Yancoal International,Mine,Coal,Thermal coal,Open pit,Australia,11.0,1
+COM01389.02,Yancoal International,Mine,Coal,Thermal coal,Open pit,Australia,25.0,1
+COM01394.01,Yanzhou Shandong Area,Mine,Coal,Thermal coal,Underground,China,48.0,1
+COM01394.02,Yanzhou Shandong Area,Mine,Coal,Thermal coal,Underground,China,40.0,1
+COM01394.03,Yanzhou Shandong Area,Mine,Coal,Thermal coal,Underground,China,35.0,1
+COM01394.04,Yanzhou Shandong Area,Mine,Coal,Thermal coal,Underground,China,32.0,1
+COM01394.05,Yanzhou Shandong Area,Mine,Coal,Thermal coal,Underground,China,24.0,1
+COM01394.06,Yanzhou Shandong Area,Mine,Coal,Thermal coal,Underground,China,21.0,1
+COM01401.01,Yilgarn Project,Mine,Iron,Iron,Open pit,Australia,7.0,0
+COM01402.01,Yintai Inner Mongolia,Mine,Coal,Coal,Underground,China,13.0,1
+COM01402.02,Yintai Inner Mongolia,Mine,Coal,Coal,Underground,China,15.0,1
+COM01402.03,Yintai Inner Mongolia,Mine,Coal,Coal,Open pit,China,13.0,1
+COM01402.04,Yintai Inner Mongolia,Mine,Coal,Coal,Underground,China,14.0,1
+COM01402.05,Yintai Inner Mongolia,Mine,Coal,Coal,Underground,China,13.0,1
+COM01402.06,Yintai Inner Mongolia,Mine,Coal,Coal,Underground,China,13.0,1
+COM01402.07,Yintai Inner Mongolia,Mine,Coal,Coal,Underground,China,14.0,1
+COM01402.08,Yintai Inner Mongolia,Mine,Coal,Coal,Underground,China,13.0,1
+COM01402.10,Yintai Inner Mongolia,Mine,Coal,Coal,Underground,China,5.0,1
+COM01407.01,Yuzhkuzbassugol,Mine,Coal,Metallurgical coal,Underground,Russian Federation,64.0,1
+COM01407.02,Yuzhkuzbassugol,Mine,Coal,Metallurgical coal,Underground,Russian Federation,37.0,1
+COM01407.03,Yuzhkuzbassugol,Mine,Coal,Metallurgical coal,Underground,Russian Federation,88.0,1
+COM01407.04,Yuzhkuzbassugol,Mine,Coal,Metallurgical coal,Underground,Russian Federation,19.0,1
+COM01407.05,Yuzhkuzbassugol,Mine,Coal,Metallurgical coal,Underground,Russian Federation,8.0,1
