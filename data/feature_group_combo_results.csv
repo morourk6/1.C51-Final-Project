@@ -1,21 +1,21 @@
 feature_groups,num_columns,r2_test
-"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'coal_mined_value_tonnes')",83,0.22392069093635647
-"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'clean_coal_value_tonnes')",83,0.2221148479363012
-"('price_usd_tonne', 'country', 'coal_mined_value_tonnes', 'reserves_grade_ppm')",83,0.2143259646823974
-"('price_usd_tonne', 'country', 'clean_coal_value_tonnes', 'reserves_grade_ppm')",83,0.21273761640210065
-"('mining_salary', 'price_usd_tonne', 'country', 'reserves_grade_ppm')",63,0.2001213266068791
-"('mining_salary', 'price_usd_tonne', 'clean_coal_value_tonnes', 'reserves_mineral_value_tonnes')",44,0.19845440591890862
-"('mining_salary', 'price_usd_tonne', 'coal_mined_value_tonnes', 'reserves_mineral_value_tonnes')",44,0.19805057434521378
-"('mining_salary', 'price_usd_tonne', 'country', 'reserves_commodity_value_tonnes')",63,0.19470432875701205
-"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'reserves_grade_ppm')",77,0.19401987932009668
-"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes')",62,0.19336208324881776
-"('price_usd_tonne', 'country', 'reserves_grade_ppm', 'waste_value_tonnes')",81,0.1922285597483674
-"('price_usd_tonne', 'country', 'reserves_grade_ppm')",62,0.1921909377060398
-"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'waste_value_tonnes')",81,0.19017963211696598
-"('reserves_commodity_value_tonnes', 'coal_mined_value_tonnes', 'reserves_grade_ppm', 'reserves_mineral_value_tonnes')",72,0.1894467339286262
-"('country', 'reserves_commodity_value_tonnes', 'minerals_ore_mined_value_tonnes', 'clean_coal_value_tonnes')",103,0.1887781491827487
-"('price_usd_tonne', 'country', 'reserves_grade_ppm', 'waste_total_material_tonnes')",81,0.18874031947190084
-"('reserves_commodity_value_tonnes', 'clean_coal_value_tonnes', 'coal_mined_value_tonnes', 'reserves_mineral_value_tonnes')",78,0.18758798434228108
-"('mining_salary', 'reserves_commodity_value_tonnes', 'minerals_ore_mined_value_tonnes', 'clean_coal_value_tonnes')",58,0.1847209857721851
-"('mining_salary', 'reserves_commodity_value_tonnes', 'minerals_ore_mined_value_tonnes', 'coal_mined_value_tonnes')",58,0.18447433941321356
-"('reserves_commodity_value_tonnes', 'coal_mined_value_tonnes', 'reserves_mineral_value_tonnes', 'waste_total_material_tonnes')",76,0.18405792322746695
+"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'coal_mined_value_tonnes')",83,0.20679805817532737
+"('price_usd_tonne', 'country', 'clean_coal_value_tonnes', 'reserves_grade_ppm')",83,0.2058177961622294
+"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'clean_coal_value_tonnes')",83,0.20156668642893327
+"('price_usd_tonne', 'country', 'coal_mined_value_tonnes', 'reserves_grade_ppm')",83,0.20007338035205757
+"('mining_salary', 'price_usd_tonne', 'reserves_grade_ppm', 'reserves_mineral_value_tonnes')",38,0.1969088095699848
+"('mining_salary', 'price_usd_tonne', 'coal_mined_value_tonnes', 'reserves_mineral_value_tonnes')",44,0.1918237196959356
+"('price_usd_tonne', 'country', 'reserves_grade_ppm', 'waste_total_material_tonnes')",81,0.1915885165489899
+"('mining_salary', 'price_usd_tonne', 'clean_coal_value_tonnes', 'reserves_mineral_value_tonnes')",44,0.1909240205360292
+"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'reserves_grade_ppm')",77,0.18883570331640598
+"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'waste_value_tonnes')",81,0.18878185879419052
+"('price_usd_tonne', 'country', 'coal_mined_value_tonnes', 'waste_total_material_tonnes')",87,0.18665468837080335
+"('mining_salary', 'price_usd_tonne', 'reserves_mineral_value_tonnes', 'waste_value_tonnes')",42,0.18617967921665768
+"('mining_salary', 'price_usd_tonne', 'still_operating', 'reserves_mineral_value_tonnes')",24,0.18379388170185795
+"('price_usd_tonne', 'country', 'reserves_grade_ppm', 'waste_value_tonnes')",81,0.1837774974345312
+"('mining_salary', 'price_usd_tonne', 'reserves_mineral_value_tonnes')",23,0.18325420403295045
+"('primary_commodity', 'country', 'reserves_commodity_value_tonnes', 'clean_coal_value_tonnes')",92,0.18080211326137585
+"('price_usd_tonne', 'country', 'clean_coal_value_tonnes', 'waste_value_tonnes')",87,0.1804239616890032
+"('mining_salary', 'price_usd_tonne', 'country', 'reserves_commodity_value_tonnes')",63,0.18011133400270007
+"('price_usd_tonne', 'country', 'clean_coal_value_tonnes', 'waste_total_material_tonnes')",87,0.17981611115409724
+"('price_usd_tonne', 'country', 'coal_mined_value_tonnes')",68,0.17908522010446848
