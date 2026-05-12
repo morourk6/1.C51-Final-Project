@@ -1,21 +1,21 @@
 feature_groups,num_columns,r2_test
-"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'coal_mined_value_tonnes')",83,0.20679805817532737
-"('price_usd_tonne', 'country', 'clean_coal_value_tonnes', 'reserves_grade_ppm')",83,0.2058177961622294
-"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'clean_coal_value_tonnes')",83,0.20156668642893327
-"('price_usd_tonne', 'country', 'coal_mined_value_tonnes', 'reserves_grade_ppm')",83,0.20007338035205757
-"('mining_salary', 'price_usd_tonne', 'reserves_grade_ppm', 'reserves_mineral_value_tonnes')",38,0.1969088095699848
-"('mining_salary', 'price_usd_tonne', 'coal_mined_value_tonnes', 'reserves_mineral_value_tonnes')",44,0.1918237196959356
-"('price_usd_tonne', 'country', 'reserves_grade_ppm', 'waste_total_material_tonnes')",81,0.1915885165489899
-"('mining_salary', 'price_usd_tonne', 'clean_coal_value_tonnes', 'reserves_mineral_value_tonnes')",44,0.1909240205360292
-"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'reserves_grade_ppm')",77,0.18883570331640598
-"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'waste_value_tonnes')",81,0.18878185879419052
-"('price_usd_tonne', 'country', 'coal_mined_value_tonnes', 'waste_total_material_tonnes')",87,0.18665468837080335
-"('mining_salary', 'price_usd_tonne', 'reserves_mineral_value_tonnes', 'waste_value_tonnes')",42,0.18617967921665768
-"('mining_salary', 'price_usd_tonne', 'still_operating', 'reserves_mineral_value_tonnes')",24,0.18379388170185795
-"('price_usd_tonne', 'country', 'reserves_grade_ppm', 'waste_value_tonnes')",81,0.1837774974345312
-"('mining_salary', 'price_usd_tonne', 'reserves_mineral_value_tonnes')",23,0.18325420403295045
-"('primary_commodity', 'country', 'reserves_commodity_value_tonnes', 'clean_coal_value_tonnes')",92,0.18080211326137585
-"('price_usd_tonne', 'country', 'clean_coal_value_tonnes', 'waste_value_tonnes')",87,0.1804239616890032
-"('mining_salary', 'price_usd_tonne', 'country', 'reserves_commodity_value_tonnes')",63,0.18011133400270007
-"('price_usd_tonne', 'country', 'clean_coal_value_tonnes', 'waste_total_material_tonnes')",87,0.17981611115409724
-"('price_usd_tonne', 'country', 'coal_mined_value_tonnes')",68,0.17908522010446848
+"('country', 'avg_commodity_recovery_rate', 'avg_reserves_grade_ppm', 'price_usd_tonne')",49,0.2295937843949215
+"('country', 'avg_commodity_recovery_rate', 'price_usd_tonne', 'total_reserves_commodities')",49,0.21193350744343475
+"('country', 'avg_reserves_grade_ppm', 'price_usd_tonne')",48,0.20771780701284315
+"('country', 'avg_reserves_grade_ppm', 'mining_salary', 'price_usd_tonne')",49,0.20467284767151217
+"('country', 'avg_commodity_recovery_rate', 'price_usd_tonne')",48,0.2012411090495525
+"('country', 'avg_reserves_grade_ppm', 'price_usd_tonne', 'total_coal')",49,0.19861272896161164
+"('country', 'avg_commodity_recovery_rate', 'price_usd_tonne', 'still_operating')",49,0.19847584820798958
+"('country', 'avg_commodity_recovery_rate', 'price_usd_tonne', 'total_coal')",49,0.19705213808156907
+"('country', 'price_usd_tonne', 'total_reserves_commodities')",48,0.19651901092021073
+"('country', 'avg_commodity_recovery_rate', 'mining_salary', 'price_usd_tonne')",49,0.1945026224369607
+"('country', 'avg_reserves_grade_ppm', 'price_usd_tonne', 'total_reserves_commodities')",49,0.19018730175458465
+"('country', 'avg_reserves_grade_ppm', 'price_usd_tonne', 'still_operating')",49,0.18736090325804067
+"('country', 'mining_salary', 'price_usd_tonne', 'total_reserves_commodities')",49,0.17997569445304018
+"('country', 'price_usd_tonne')",47,0.17656789195910594
+"('country', 'avg_commodity_recovery_rate', 'price_usd_tonne', 'total_reserves_minerals')",49,0.1747382764892751
+"('country', 'mining_salary', 'price_usd_tonne', 'still_operating')",49,0.17387249394435533
+"('country', 'price_usd_tonne', 'total_coal', 'total_reserves_commodities')",49,0.17372264845148555
+"('country', 'price_usd_tonne', 'still_operating', 'total_reserves_commodities')",49,0.1710380643360594
+"('country', 'mining_salary', 'price_usd_tonne')",48,0.16925583545394507
+"('country', 'price_usd_tonne', 'still_operating', 'total_coal')",49,0.1684047510498946
