@@ -16,6 +16,6 @@ feature_groups,num_columns,r2_test
 "('country', 'avg_commodity_recovery_rate', 'price_usd_tonne', 'total_reserves_minerals')",49,0.1747382764892751
 "('country', 'mining_salary', 'price_usd_tonne', 'still_operating')",49,0.17387249394435533
 "('country', 'price_usd_tonne', 'total_coal', 'total_reserves_commodities')",49,0.17372264845148555
+"('country', 'price_usd_tonne', 'total_reserves_commodities', 'primary_commodity')",58,0.17298534156647483
 "('country', 'price_usd_tonne', 'still_operating', 'total_reserves_commodities')",49,0.1710380643360594
 "('country', 'mining_salary', 'price_usd_tonne')",48,0.16925583545394507
-"('country', 'price_usd_tonne', 'still_operating', 'total_coal')",49,0.1684047510498946
