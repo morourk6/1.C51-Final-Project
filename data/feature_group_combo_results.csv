@@ -1,21 +1,21 @@
-feature_groups,num_columns,r2_test
-"('reserves_commodity_value_tonnes', 'reserves_mineral_value_tonnes', 'reserves_grade_ppm', 'coal_mined_value_tonnes')",72,0.19380574729454325
-"('mining_salary', 'reserves_commodity_value_tonnes', 'minerals_ore_mined_value_tonnes', 'coal_mined_value_tonnes')",58,0.18447433941321356
-"('country', 'reserves_commodity_value_tonnes', 'minerals_ore_mined_value_tonnes', 'coal_mined_value_tonnes')",103,0.18179500944903282
-"('primary_commodity', 'country', 'reserves_commodity_value_tonnes', 'coal_mined_value_tonnes')",92,0.17160854832229333
-"('reserves_commodity_value_tonnes', 'reserves_mineral_value_tonnes', 'coal_mined_value_tonnes')",57,0.17032315231615625
-"('reserves_mineral_value_tonnes', 'reserves_grade_ppm', 'coal_mined_value_tonnes')",57,0.16833799100717117
-"('mining_salary', 'reserves_mineral_value_tonnes', 'reserves_grade_ppm', 'coal_mined_value_tonnes')",58,0.1622966650900487
-"('primary_commodity', 'country', 'coal_mined_value_tonnes')",77,0.155105034937001
-"('primary_commodity', 'still_operating', 'country', 'coal_mined_value_tonnes')",78,0.1550912150007665
-"('still_operating', 'reserves_mineral_value_tonnes', 'reserves_grade_ppm', 'coal_mined_value_tonnes')",58,0.15436062422745422
-"('mining_salary', 'minerals_ore_mined_value_tonnes', 'reserves_grade_ppm', 'coal_mined_value_tonnes')",58,0.14760625427830376
-"('price_usd_tonne', 'country', 'minerals_ore_mined_value_tonnes', 'reserves_grade_ppm')",103,0.14536629551408198
-"('still_operating', 'reserves_commodity_value_tonnes', 'reserves_mineral_value_tonnes', 'coal_mined_value_tonnes')",58,0.14493433459351746
-"('country', 'reserves_commodity_value_tonnes', 'coal_mined_value_tonnes', 'commodities_recovery_rate')",103,0.14476834074692435
-"('reserves_commodity_value_tonnes', 'reserves_mineral_value_tonnes', 'reserves_grade_ppm')",51,0.14390502319317555
-"('country', 'reserves_commodity_value_tonnes', 'minerals_ore_mined_value_tonnes', 'reserves_grade_ppm')",97,0.142656364510803
-"('mining_salary', 'price_usd_tonne', 'minerals_ore_mined_value_tonnes', 'reserves_grade_ppm')",58,0.14245375342848543
-"('primary_commodity', 'mining_salary', 'price_usd_tonne', 'minerals_ore_mined_value_tonnes')",53,0.1411206772437411
-"('mining_salary', 'price_usd_tonne', 'reserves_commodity_value_tonnes', 'minerals_ore_mined_value_tonnes')",58,0.1406758795024582
-"('mining_salary', 'price_usd_tonne', 'country', 'minerals_ore_mined_value_tonnes')",89,0.14055155676115183
+feature_groups,num_columns,accuracy,balanced_accuracy,f1_weighted,precision_weighted,recall_weighted
+"('price_usd_tonne', 'reserves_mineral_value_tonnes', 'commodities_grade_ppm')",63,0.6172839506172839,0.6042577030812325,0.6048394561396925,0.6291969701931387,0.6172839506172839
+"('primary_commodity', 'mining_salary', 'price_usd_tonne', 'minerals_ore_mined_value_tonnes')",53,0.6049382716049383,0.5938001867413633,0.6026076771985471,0.6214878125989236,0.6049382716049383
+"('mining_salary', 'price_usd_tonne', 'still_operating', 'commodities_grade_ppm')",44,0.6049382716049383,0.6004668534080299,0.6007375340708674,0.6358046274712941,0.6049382716049383
+"('price_usd_tonne', 'reserves_mineral_value_tonnes', 'commodities_value_tonnes', 'commodities_recovery_rate')",84,0.6049382716049383,0.599813258636788,0.5944293443654873,0.6097883597883599,0.6049382716049383
+"('price_usd_tonne', 'country', 'minerals_ore_mined_value_tonnes', 'reserves_grade_ppm')",103,0.5925925925925926,0.5826890756302522,0.5882632996833003,0.6036878759100981,0.5925925925925926
+"('price_usd_tonne', 'country', 'reserves_mineral_value_tonnes', 'commodities_grade_ppm')",109,0.5925925925925926,0.5838001867413631,0.5871530968217918,0.6119929453262787,0.5925925925925926
+"('mining_salary', 'price_usd_tonne', 'commodities_grade_ppm', 'commodities_recovery_rate')",64,0.5925925925925926,0.5887021475256768,0.5861489415225047,0.6125356125356125,0.5925925925925926
+"('primary_commodity', 'mining_salary', 'price_usd_tonne', 'country')",78,0.5925925925925926,0.5887021475256768,0.5856122612461219,0.6206349206349205,0.5925925925925926
+"('price_usd_tonne', 'country', 'reserves_mineral_value_tonnes', 'reserves_grade_ppm')",103,0.6049382716049383,0.5882072829131653,0.585594789298493,0.6045050898852068,0.6049382716049383
+"('price_usd_tonne', 'still_operating', 'country', 'reserves_commodity_value_tonnes')",83,0.5925925925925926,0.5820354808590101,0.5832196153183807,0.617798353909465,0.5925925925925926
+"('mining_salary', 'price_usd_tonne', 'minerals_ore_mined_value_tonnes', 'coal_mined_value_tonnes')",64,0.5925925925925926,0.5936041083099907,0.5824434210130252,0.6068059512503957,0.5925925925925926
+"('mining_salary', 'price_usd_tonne', 'minerals_ore_mined_value_tonnes')",43,0.5925925925925926,0.5845564892623717,0.5821449525153229,0.5988125164595752,0.5925925925925926
+"('price_usd_tonne', 'still_operating', 'country', 'reserves_mineral_value_tonnes')",89,0.6049382716049383,0.5907282913165266,0.5811824638805885,0.6068930041152263,0.6049382716049383
+"('price_usd_tonne', 'still_operating', 'country', 'commodities_grade_ppm')",89,0.5802469135802469,0.5695144724556489,0.5774314848388923,0.6032288698955365,0.5802469135802469
+"('mining_salary', 'price_usd_tonne', 'reserves_commodity_value_tonnes', 'commodities_grade_ppm')",58,0.5802469135802469,0.5761811391223156,0.5745489572130613,0.6145558145558144,0.5802469135802469
+"('mining_salary', 'price_usd_tonne', 'minerals_ore_mined_value_tonnes', 'commodities_recovery_rate')",64,0.5802469135802469,0.578702147525677,0.5743714668445852,0.6103772770439437,0.5802469135802469
+"('primary_commodity', 'price_usd_tonne', 'minerals_ore_mined_value_tonnes', 'commodities_grade_ppm')",73,0.5802469135802469,0.576937441643324,0.5735543724049472,0.6067109844887623,0.5802469135802469
+"('price_usd_tonne', 'reserves_commodity_value_tonnes', 'reserves_mineral_value_tonnes', 'commodities_grade_ppm')",78,0.5802469135802469,0.5720354808590102,0.5733709363338992,0.5866232532899199,0.5802469135802469
+"('price_usd_tonne', 'country', 'reserves_commodity_value_tonnes', 'reserves_mineral_value_tonnes')",103,0.5925925925925926,0.5824929971988795,0.5723989065929207,0.5986157875046764,0.5925925925925926
+"('price_usd_tonne', 'reserves_mineral_value_tonnes', 'minerals_ore_mined_value_tonnes', 'commodities_value_tonnes')",84,0.5802469135802469,0.576937441643324,0.5721619943842166,0.5871161760050649,0.5802469135802469
