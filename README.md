@@ -20,4 +20,6 @@ Our actual models are divided into two files which were created more collaborati
 - `rf_model` includes the vast majority of our model attempts and exploration, particularly for the Random Forest Regressor
 - `rf_bins` includes our Random Forest Classifier and the code we used to understand the spread of our data and its division into quintiles
 
+We would recommend starting on `rf_model` and `rf_bins` to understand our main model, and go through the data processing files as needed to see how we made the information we received from open source data into a system "understandable" for our model, including one-hot encoding key categorical variables.
+
 
