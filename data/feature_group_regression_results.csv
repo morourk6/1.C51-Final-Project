@@ -1,0 +1,21 @@
+feature_groups,num_groups,num_columns,num_rows,r2_test
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'primary_commodity', 'total_coal', 'total_reserves_commodities')",8,64,72,0.6795156226377059
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'primary_commodity', 'still_operating', 'total_reserves_commodities')",8,64,72,0.6795156226377059
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'primary_commodity', 'total_reserves_commodities')",7,63,72,0.6750874741722521
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'total_coal', 'total_reserves_commodities')",7,53,72,0.6577951796603335
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'still_operating', 'total_reserves_commodities')",7,53,72,0.6577951796603335
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'primary_commodity', 'still_operating', 'total_coal', 'total_commodities')",9,65,72,0.6395682104520484
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'total_commodities')",6,52,72,0.6317674242806026
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'primary_commodity', 'still_operating', 'total_commodities')",8,64,72,0.6303800206621981
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'primary_commodity', 'total_coal', 'total_commodities')",8,64,72,0.6303800206621981
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'primary_commodity', 'still_operating', 'total_coal', 'total_reserves_commodities')",9,65,72,0.629418699289422
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'total_reserves_commodities')",6,52,72,0.629151136420904
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'still_operating', 'total_coal', 'total_reserves_commodities')",8,54,72,0.6125772816610391
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'primary_commodity', 'still_operating', 'total_coal', 'total_reserves_commodities')",8,64,72,0.6105907246888072
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'still_operating', 'total_coal', 'total_commodities')",5,5,73,0.6020669119800821
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'total_reserves_commodities')",5,51,72,0.5991550294814292
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'primary_commodity', 'total_coal', 'total_reserves_commodities')",7,63,72,0.5955838456886559
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'primary_commodity', 'still_operating', 'total_reserves_commodities')",7,63,72,0.5955838456886559
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'primary_commodity', 'total_commodities')",6,62,72,0.5910129768684169
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'still_operating', 'total_commodities')",6,52,72,0.588747555813133
+"('avg_commodities_grade_ppm', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'total_coal', 'total_commodities')",6,52,72,0.588747555813133
