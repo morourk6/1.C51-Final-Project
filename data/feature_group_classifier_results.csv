@@ -1,21 +1,21 @@
 feature_groups,num_columns,accuracy,balanced_accuracy,f1_weighted,precision_weighted,recall_weighted
-"('avg_commodity_recovery_rate', 'avg_reserves_grade_ppm', 'country', 'still_operating', 'total_coal', 'total_commodities', 'total_minerals', 'total_reserves_minerals')",54,0.6666666666666666,0.6,0.7245370370370371,0.8611111111111112,0.6666666666666666
-"('avg_commodity_recovery_rate', 'avg_reserves_grade_ppm', 'mining_salary', 'total_commodities', 'total_reserves_minerals')",5,0.6666666666666666,0.6,0.6944444444444443,0.7291666666666666,0.6666666666666666
-"('avg_commodity_recovery_rate', 'avg_reserves_grade_ppm', 'country', 'mining_salary', 'total_coal', 'total_commodities', 'total_minerals', 'total_reserves_minerals')",54,0.6666666666666666,0.6,0.6944444444444443,0.7291666666666666,0.6666666666666666
-"('avg_commodity_recovery_rate', 'avg_reserves_grade_ppm', 'country', 'mining_salary', 'still_operating', 'total_commodities', 'total_minerals', 'total_reserves_minerals')",54,0.6666666666666666,0.6,0.6944444444444443,0.7291666666666666,0.6666666666666666
-"('avg_commodity_recovery_rate', 'avg_price_usd', 'avg_reserves_grade_ppm', 'total_coal', 'total_commodities', 'total_minerals', 'total_reserves_minerals')",7,0.5833333333333334,0.4761904761904762,0.6833333333333332,0.9166666666666666,0.5833333333333334
-"('avg_commodities_grade_ppm', 'avg_commodity_recovery_rate', 'avg_price_usd', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'primary_commodity', 'total_coal', 'total_commodities', 'total_minerals', 'total_reserves_commodities', 'total_reserves_minerals')",69,0.5833333333333334,0.4761904761904762,0.6833333333333332,0.9166666666666666,0.5833333333333334
-"('avg_commodity_recovery_rate', 'avg_price_usd', 'avg_reserves_grade_ppm', 'still_operating', 'total_coal', 'total_commodities', 'total_minerals', 'total_reserves_minerals')",8,0.5833333333333334,0.4761904761904762,0.6833333333333332,0.9166666666666666,0.5833333333333334
-"('avg_commodity_recovery_rate', 'avg_price_usd', 'avg_reserves_grade_ppm', 'commodity_var', 'still_operating', 'total_coal', 'total_commodities', 'total_minerals', 'total_reserves_minerals')",9,0.5833333333333334,0.4761904761904762,0.6833333333333332,0.9166666666666666,0.5833333333333334
-"('avg_commodities_grade_ppm', 'avg_commodity_recovery_rate', 'avg_price_usd', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'primary_commodity', 'still_operating', 'total_commodities', 'total_minerals', 'total_reserves_commodities', 'total_reserves_minerals')",69,0.5833333333333334,0.4761904761904762,0.6833333333333332,0.9166666666666666,0.5833333333333334
-"('avg_commodity_recovery_rate', 'avg_price_usd', 'avg_reserves_grade_ppm', 'still_operating', 'total_commodities', 'total_minerals', 'total_reserves_minerals')",7,0.5833333333333334,0.4761904761904762,0.6833333333333332,0.9166666666666666,0.5833333333333334
-"('avg_reserves_grade_ppm', 'mining_salary', 'still_operating', 'total_coal', 'total_minerals', 'total_reserves_commodities', 'total_reserves_minerals')",7,0.6842105263157895,0.625,0.6650717703349283,0.6491228070175438,0.6842105263157895
-"('avg_commodities_grade_ppm', 'avg_commodity_recovery_rate', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'total_commodities', 'total_minerals', 'total_reserves_minerals')",54,0.5833333333333334,0.55,0.6583333333333333,0.8541666666666666,0.5833333333333334
-"('avg_commodity_recovery_rate', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'total_commodities', 'total_reserves_minerals')",52,0.5833333333333334,0.55,0.6501322751322751,0.8611111111111112,0.5833333333333334
-"('avg_commodities_grade_ppm', 'avg_price_usd', 'avg_reserves_grade_ppm', 'commodity_var', 'mining_salary', 'still_operating', 'total_commodities', 'total_minerals', 'total_reserves_commodities', 'total_reserves_minerals')",10,0.5714285714285714,0.45,0.6460317460317461,0.8571428571428571,0.5714285714285714
-"('avg_commodities_grade_ppm', 'avg_price_usd', 'avg_reserves_grade_ppm', 'commodity_var', 'mining_salary', 'total_coal', 'total_commodities', 'total_minerals', 'total_reserves_commodities', 'total_reserves_minerals')",10,0.5714285714285714,0.45,0.6460317460317461,0.8571428571428571,0.5714285714285714
-"('avg_commodities_grade_ppm', 'avg_commodity_recovery_rate', 'avg_price_usd', 'avg_reserves_grade_ppm', 'commodity_var', 'mining_salary', 'primary_commodity', 'total_minerals', 'total_reserves_minerals')",19,0.5,0.39285714285714285,0.6357142857142857,0.9166666666666666,0.5
-"('avg_commodity_recovery_rate', 'avg_price_usd', 'avg_reserves_grade_ppm', 'commodity_var', 'mining_salary', 'still_operating', 'total_coal', 'total_minerals', 'total_reserves_minerals')",9,0.5,0.39285714285714285,0.6357142857142857,0.9166666666666666,0.5
-"('avg_commodity_recovery_rate', 'avg_price_usd', 'avg_reserves_grade_ppm', 'country', 'mining_salary', 'primary_commodity', 'total_coal', 'total_commodities', 'total_minerals', 'total_reserves_minerals')",66,0.5,0.39285714285714285,0.6357142857142857,0.9166666666666666,0.5
-"('avg_commodity_recovery_rate', 'avg_price_usd', 'avg_reserves_grade_ppm', 'country', 'mining_salary', 'primary_commodity', 'still_operating', 'total_commodities', 'total_minerals', 'total_reserves_minerals')",66,0.5,0.39285714285714285,0.6357142857142857,0.9166666666666666,0.5
-"('avg_commodity_recovery_rate', 'avg_price_usd', 'avg_reserves_grade_ppm', 'commodity_var', 'country', 'mining_salary', 'primary_commodity', 'still_operating', 'total_coal', 'total_commodities', 'total_minerals', 'total_reserves_minerals')",68,0.5,0.39285714285714285,0.6357142857142857,0.9166666666666666,0.5
+"('LOM_in_Buckets', 'mining_salary', 'primary_commodity', 'still_operating')",13,1.0,1.0,1.0,1.0,1.0
+"('LOM_in_Buckets', 'mining_salary')",2,1.0,1.0,1.0,1.0,1.0
+"('LOM_in_Buckets',)",1,1.0,1.0,1.0,1.0,1.0
+"('LOM_in_Buckets', 'still_operating')",2,1.0,1.0,1.0,1.0,1.0
+"('LOM_in_Buckets', 'mining_salary', 'primary_commodity')",12,1.0,1.0,1.0,1.0,1.0
+"('LOM_in_Buckets', 'primary_commodity', 'still_operating')",12,1.0,1.0,1.0,1.0,1.0
+"('LOM_in_Buckets', 'country', 'still_operating')",48,0.9841269841269841,0.9833333333333334,0.984199629508554,0.9857142857142858,0.9841269841269841
+"('LOM_in_Buckets', 'country', 'mining_salary', 'still_operating')",49,0.9841269841269841,0.9833333333333334,0.984199629508554,0.9857142857142858,0.9841269841269841
+"('LOM_in_Buckets', 'country', 'mining_salary')",48,0.9841269841269841,0.9833333333333334,0.984199629508554,0.9857142857142858,0.9841269841269841
+"('LOM_in_Buckets', 'mining_salary', 'still_operating')",3,0.9841269841269841,0.9800000000000001,0.9840872021323149,0.9855699855699857,0.9841269841269841
+"('LOM_in_Buckets', 'country')",47,0.9682539682539683,0.9633333333333333,0.9680852695345449,0.9705314009661835,0.9682539682539683
+"('LOM_in_Buckets', 'country', 'primary_commodity')",57,0.9682539682539683,0.96,0.9680776014109347,0.9740259740259741,0.9682539682539683
+"('LOM_in_Buckets', 'primary_commodity')",11,0.9682539682539683,0.9555555555555555,0.9674908424908425,0.9727891156462585,0.9682539682539683
+"('LOM_in_Buckets', 'country', 'primary_commodity', 'still_operating')",58,0.9523809523809523,0.9433333333333334,0.9536735789323781,0.9642857142857143,0.9523809523809523
+"('LOM_in_Buckets', 'country', 'mining_salary', 'primary_commodity', 'still_operating')",59,0.9523809523809523,0.9400000000000001,0.952297410192147,0.956389289722623,0.9523809523809523
+"('LOM_in_Buckets', 'country', 'mining_salary', 'primary_commodity')",58,0.9365079365079365,0.9233333333333335,0.935740479766786,0.9498556998556998,0.9365079365079365
+"('country', 'primary_commodity', 'still_operating')",57,0.25396825396825395,0.27545454545454545,0.24504935877484899,0.27928949357520794,0.25396825396825395
+"('country', 'primary_commodity')",56,0.25396825396825395,0.2863636363636363,0.23618528612471268,0.26265489360727456,0.25396825396825395
+"('mining_salary', 'primary_commodity', 'still_operating')",12,0.2222222222222222,0.23101010101010097,0.23122556455889792,0.2730692276910765,0.2222222222222222
+"('mining_salary', 'primary_commodity')",11,0.20634920634920634,0.2219191919191919,0.20975547028285368,0.2514622943194372,0.20634920634920634
